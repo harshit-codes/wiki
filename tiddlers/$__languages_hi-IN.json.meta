@@ -1,0 +1,9 @@
+author: Atul Grover
+core-version: >=5.0.8
+dependents: 
+description: Hindi (India)
+name: hi-IN
+plugin-type: language
+title: $:/languages/hi-IN
+type: application/json
+version: 5.2.1
